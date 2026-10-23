@@ -1,0 +1,22 @@
+
+PYTHON DATA ANALYSIS REPORT
+
+1. Total employees: 5
+2. Average salary: 32500.00
+3. Average age: 24.75
+
+Employees by department:
+Department
+IT       2
+HR       2
+Sales    1
+
+Salary statistics:
+count        5.000000
+mean     32500.000000
+std       5590.169944
+min      25000.000000
+25%      30000.000000
+50%      32500.000000
+75%      35000.000000
+max      40000.000000
